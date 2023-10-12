@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bs-catalog
+  annotations:
+    github.com/project-slug: pmacik-testing/bs-catalog
+spec:
+  type: other
+  lifecycle: unknown
+  owner: janus-authors
